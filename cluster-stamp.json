@@ -83,7 +83,7 @@
         },
         "gitOpsBootstrappingRepoHttpsUrl": {
             "type": "string",
-            "defaultValue": "https://github.com/mspnp/aks-baseline",
+            "defaultValue": "https://github.com/Ocellus/aks-baseline",
             "minLength": 9,
             "metadata": {
                 "description": "Your cluster will be bootstrapped from this git repo."
